@@ -1,0 +1,10 @@
+
+.container{
+  text-align: center;
+  margin-top: 5rem;
+}
+
+button {
+  font-size: calc(10px + 2vmin);
+  margin: 3px;
+}
